@@ -2,7 +2,6 @@
 <p>  
 <img src="https://img.icons8.com/windows/64/000000/nodejs.png" alt="nodejs" width="40" height="40"/>
 <img src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" alt="jwt" width="50" height="40"/>
-<img src="https://img.icons8.com/color/64/000000/graphql.png"  alt="graphql" width="40" height="40"/>
 <img src="https://img.icons8.com/color/64/000000/mongodb.png" alt="mongodb" width="40" height="40"/>
 </p> 
 
